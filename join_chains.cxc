@@ -1,0 +1,4 @@
+renumber #1/B1 seqStart 22
+renumber #1/A2 seqStart 52
+renumber #1/B2 seqStart 73
+changechains #1 I

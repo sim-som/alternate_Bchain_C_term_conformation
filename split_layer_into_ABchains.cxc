@@ -1,0 +1,13 @@
+select :1-21
+changechains sel A1
+select :22-51
+changechains sel B1
+select :52-72
+changechains sel A2
+select :73-102
+changechains sel B2
+
+renumber /A1 seqStart 1
+renumber /B1 seqStart 1
+renumber /A2 seqStart 1
+renumber /B2 seqStart 1
