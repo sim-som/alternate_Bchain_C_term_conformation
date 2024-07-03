@@ -1,0 +1,457 @@
+ Please type name of .pdb file
+ input_PDBs/alternate_Bchain_C_term_conformation/glargin_pmL1_alt_conf_5layers-delH.pdb              
+ PLEASE give pH value for calculation
+        4010 atoms read from input PDB file.
+          20 chains found.
+First chain=B. Last chain=Q.
+   30 residues in chain B
+   30 residues in chain D
+   21 residues in chain C
+   21 residues in chain A
+   30 residues in chain F
+   30 residues in chain H
+   21 residues in chain G
+   21 residues in chain E
+   30 residues in chain J
+   30 residues in chain L
+   21 residues in chain K
+   21 residues in chain I
+   30 residues in chain N
+   30 residues in chain P
+   21 residues in chain O
+   21 residues in chain M
+   30 residues in chain R
+   30 residues in chain T
+   21 residues in chain S
+   21 residues in chain Q
+ Start calculating 1000 points on surface of unit sphere.
+ Done calculating 1000 points on surface of unit sphere.
+ Start assigning dot surface to each atom.
+ Done assigning dot surface to each atom.
+ Start initializing culprit array for dots.
+ Finished initializing culprit array for dots.
+ Start flagging interpenetrating surface dots.
+ Done flagging interpenetrating surface dots.
+Solvent Accessible Surface Area for chain B unfolded=   5361.7 angstroms squared.
+Solvent Accessible Surface Area for chain D unfolded=   5364.1 angstroms squared.
+Solvent Accessible Surface Area for chain C unfolded=   3696.9 angstroms squared.
+Solvent Accessible Surface Area for chain A unfolded=   3692.9 angstroms squared.
+Solvent Accessible Surface Area for chain F unfolded=   5356.9 angstroms squared.
+Solvent Accessible Surface Area for chain H unfolded=   5363.7 angstroms squared.
+Solvent Accessible Surface Area for chain G unfolded=   3696.5 angstroms squared.
+Solvent Accessible Surface Area for chain E unfolded=   3692.3 angstroms squared.
+Solvent Accessible Surface Area for chain J unfolded=   5358.0 angstroms squared.
+Solvent Accessible Surface Area for chain L unfolded=   5362.8 angstroms squared.
+Solvent Accessible Surface Area for chain K unfolded=   3697.6 angstroms squared.
+Solvent Accessible Surface Area for chain I unfolded=   3690.7 angstroms squared.
+Solvent Accessible Surface Area for chain N unfolded=   5355.4 angstroms squared.
+Solvent Accessible Surface Area for chain P unfolded=   5365.2 angstroms squared.
+Solvent Accessible Surface Area for chain O unfolded=   3696.0 angstroms squared.
+Solvent Accessible Surface Area for chain M unfolded=   3694.9 angstroms squared.
+Solvent Accessible Surface Area for chain R unfolded=   5360.0 angstroms squared.
+Solvent Accessible Surface Area for chain T unfolded=   5365.8 angstroms squared.
+Solvent Accessible Surface Area for chain S unfolded=   3698.6 angstroms squared.
+Solvent Accessible Surface Area for chain Q unfolded=   3695.5 angstroms squared.
+ Start initializing culprit array for atoms.
+ Done initializing culprit array for atoms.
+Solvent Accessible Surface Area for chain B in assembly=    579.6 angstroms squared.
+Solvent Accessible Surface Area for chain D in assembly=    577.9 angstroms squared.
+Solvent Accessible Surface Area for chain C in assembly=    351.6 angstroms squared.
+Solvent Accessible Surface Area for chain A in assembly=    352.4 angstroms squared.
+Solvent Accessible Surface Area for chain F in assembly=    578.6 angstroms squared.
+Solvent Accessible Surface Area for chain H in assembly=    599.6 angstroms squared.
+Solvent Accessible Surface Area for chain G in assembly=    351.2 angstroms squared.
+Solvent Accessible Surface Area for chain E in assembly=    353.0 angstroms squared.
+Solvent Accessible Surface Area for chain J in assembly=   1790.9 angstroms squared.
+Solvent Accessible Surface Area for chain L in assembly=   1954.4 angstroms squared.
+Solvent Accessible Surface Area for chain K in assembly=   1173.1 angstroms squared.
+Solvent Accessible Surface Area for chain I in assembly=   1167.8 angstroms squared.
+Solvent Accessible Surface Area for chain N in assembly=   1972.7 angstroms squared.
+Solvent Accessible Surface Area for chain P in assembly=   1804.6 angstroms squared.
+Solvent Accessible Surface Area for chain O in assembly=   1167.0 angstroms squared.
+Solvent Accessible Surface Area for chain M in assembly=   1169.0 angstroms squared.
+Solvent Accessible Surface Area for chain R in assembly=    609.9 angstroms squared.
+Solvent Accessible Surface Area for chain T in assembly=    579.2 angstroms squared.
+Solvent Accessible Surface Area for chain S in assembly=    353.4 angstroms squared.
+Solvent Accessible Surface Area for chain Q in assembly=    354.3 angstroms squared.
+Solvation free energy for chain B is  30631.1 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain D is  30650.7 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain C is  11092.8 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain A is  11233.9 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain F is  30581.4 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain H is  30696.0 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain G is  11088.8 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain E is  11234.5 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain J is  24825.8 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain L is  21835.7 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain K is   7346.6 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain I is   7946.4 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain N is  21819.0 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain P is  23258.0 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain O is   7201.6 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain M is   7343.6 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain R is  30488.6 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain T is  30651.4 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain S is  11131.4 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+Solvation free energy for chain Q is  11270.9 cal/mol at pH  4.0 assuming charged if sasafold.gt. 20.0
+PAIRED CHARG+ B  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0
+PAIRED CHARG- B  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0 distance=  4.4
+PAIRED CHARG+ B  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- A   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ B  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5
+PAIRED CHARG- B  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5 distance=  3.9
+PAIRED CHARG+ B  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.3
+PAIRED CHARG- B  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.3 distance=  3.8
+PAIRED CHARG+ B  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.3
+PAIRED CHARG- R  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ B  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- R  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.6
+PAIRED CHARG+ B  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.6
+PAIRED CHARG- B  21 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-0.6 distance=  3.5
+PAIRED CHARG+ B  22 ARG NH1 chrg=  0.0 sasa= 15.7 a.s.p.=-0.0
+PAIRED CHARG- B  21 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ B  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.2
+PAIRED CHARG- A  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.2 distance=  4.2
+PAIRED CHARG+ B  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- A  17 GLU OE2 chrg=  0.0 sasa= 10.9 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ D  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8
+PAIRED CHARG- D  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8 distance=  4.4
+PAIRED CHARG+ D  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- C   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ D  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9
+PAIRED CHARG- D  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9 distance=  4.1
+PAIRED CHARG+ D  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.2
+PAIRED CHARG- D  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.2 distance=  3.8
+PAIRED CHARG+ D  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.2
+PAIRED CHARG- T  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.4 distance=  4.3
+PAIRED CHARG+ D  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- T  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ D  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.8
+PAIRED CHARG- D  21 GLU OE2 chrg=  0.0 sasa=  1.2 a.s.p.=-0.8 distance=  3.6
+PAIRED CHARG+ D  22 ARG NH1 chrg=  0.0 sasa= 14.6 a.s.p.=-0.0
+PAIRED CHARG- D  21 GLU OE2 chrg=  0.0 sasa=  1.2 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ D  29 LYS NZ  chrg=  0.0 sasa=  4.2 a.s.p.=-2.0
+PAIRED CHARG- C  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ D  29 LYS NZ  chrg=  0.0 sasa=  4.2 a.s.p.=-0.0
+PAIRED CHARG- C  17 GLU OE2 chrg=  0.0 sasa=  8.5 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ F  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0
+PAIRED CHARG- F  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0 distance=  4.4
+PAIRED CHARG+ F  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- E   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ F  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0
+PAIRED CHARG- B  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5 distance=  4.1
+PAIRED CHARG+ F  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- B  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.6
+PAIRED CHARG+ F  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- F  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5 distance=  3.9
+PAIRED CHARG+ F  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- F  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.3 distance=  3.8
+PAIRED CHARG+ F  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.6
+PAIRED CHARG- F  21 GLU OE2 chrg=  0.0 sasa=  1.7 a.s.p.=-0.6 distance=  3.5
+PAIRED CHARG+ F  22 ARG NH1 chrg=  0.0 sasa= 15.7 a.s.p.=-0.0
+PAIRED CHARG- F  21 GLU OE2 chrg=  0.0 sasa=  1.7 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ F  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.2
+PAIRED CHARG- E  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.2 distance=  4.2
+PAIRED CHARG+ F  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- E  17 GLU OE2 chrg=  0.0 sasa= 10.8 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ H  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8
+PAIRED CHARG- H  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8 distance=  4.4
+PAIRED CHARG+ H  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- G   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ H  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.4
+PAIRED CHARG- D  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9 distance=  4.3
+PAIRED CHARG+ H  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- D  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ H  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- H  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9 distance=  4.1
+PAIRED CHARG+ H  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- H  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.2 distance=  3.8
+PAIRED CHARG+ H  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.8
+PAIRED CHARG- H  21 GLU OE2 chrg=  0.0 sasa=  5.9 a.s.p.=-0.8 distance=  3.6
+PAIRED CHARG+ H  22 ARG NH1 chrg=  0.0 sasa= 19.3 a.s.p.=-0.0
+PAIRED CHARG- H  21 GLU OE2 chrg=  0.0 sasa=  5.9 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ H  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.0
+PAIRED CHARG- G  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ H  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- G  17 GLU OE2 chrg=  0.0 sasa=  8.5 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ J  10 HIS NE2 chrg=  0.0 sasa= 11.9 a.s.p.=-3.0
+PAIRED CHARG- J  13 GLU OE1 chrg=  0.0 sasa= 26.1 a.s.p.=-3.0 distance=  4.4
+PAIRED CHARG+ J  10 HIS NE2 chrg=  0.0 sasa= 11.9 a.s.p.=-2.3
+PAIRED CHARG- I   4 GLU OE1 chrg=  0.0 sasa=  7.8 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ J  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0
+PAIRED CHARG- F  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5 distance=  4.1
+PAIRED CHARG+ J  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- F  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.6
+PAIRED CHARG+ J  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- J  13 GLU OE2 chrg=  0.0 sasa= 17.5 a.s.p.=-1.5 distance=  4.0
+PAIRED CHARG+ J  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- J  13 GLU OE1 chrg=  0.0 sasa= 26.1 a.s.p.=-1.3 distance=  3.8
+PAIRED CHARG+ J  22 ARG NE  chrg=  0.0 sasa=  3.2 a.s.p.=-0.6
+PAIRED CHARG- J  21 GLU OE2 chrg=  0.0 sasa= 18.2 a.s.p.=-0.6 distance=  3.5
+PAIRED CHARG+ J  22 ARG NH1 chrg=  0.0 sasa= 34.3 a.s.p.=-0.0
+PAIRED CHARG- J  21 GLU OE2 chrg=  0.0 sasa= 18.2 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ J  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.2
+PAIRED CHARG- I  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.2 distance=  4.2
+PAIRED CHARG+ J  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- I  17 GLU OE2 chrg=  0.0 sasa= 16.5 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ L  10 HIS NE2 chrg=  0.0 sasa= 12.6 a.s.p.=-2.8
+PAIRED CHARG- L  13 GLU OE1 chrg=  0.0 sasa= 26.8 a.s.p.=-2.8 distance=  4.3
+PAIRED CHARG+ L  10 HIS NE2 chrg=  0.0 sasa= 12.6 a.s.p.=-2.3
+PAIRED CHARG- K   4 GLU OE1 chrg=  0.0 sasa=  8.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ L  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.4
+PAIRED CHARG- H  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9 distance=  4.3
+PAIRED CHARG+ L  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- H  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ L  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- L  13 GLU OE2 chrg=  0.0 sasa= 17.3 a.s.p.=-1.9 distance=  4.1
+PAIRED CHARG+ L  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- L  13 GLU OE1 chrg=  0.0 sasa= 26.8 a.s.p.=-1.2 distance=  3.8
+PAIRED CHARG+ L  22 ARG NE  chrg=  0.0 sasa=  3.5 a.s.p.=-0.8
+PAIRED CHARG- L  21 GLU OE2 chrg=  0.0 sasa= 21.5 a.s.p.=-0.8 distance=  3.6
+PAIRED CHARG+ L  22 ARG NH1 chrg=  0.0 sasa= 32.2 a.s.p.=-0.0
+PAIRED CHARG- L  21 GLU OE2 chrg=  0.0 sasa= 21.5 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ L  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.0
+PAIRED CHARG- K  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ L  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- K  17 GLU OE2 chrg=  0.0 sasa= 16.5 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ N  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0
+PAIRED CHARG- N  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0 distance=  4.4
+PAIRED CHARG+ N  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- M   4 GLU OE1 chrg=  0.0 sasa=  0.7 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ N  10 HIS ND1 chrg=  0.0 sasa= 17.3 a.s.p.=-1.5
+PAIRED CHARG- N  13 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-1.5 distance=  3.9
+PAIRED CHARG+ N  10 HIS ND1 chrg=  0.0 sasa= 17.3 a.s.p.=-1.3
+PAIRED CHARG- N  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.3 distance=  3.8
+PAIRED CHARG+ N  22 ARG NE  chrg=  0.0 sasa=  2.0 a.s.p.=-0.6
+PAIRED CHARG- N  21 GLU OE2 chrg=  0.0 sasa=  3.6 a.s.p.=-0.6 distance=  3.5
+PAIRED CHARG+ N  22 ARG NH1 chrg=  0.0 sasa= 17.1 a.s.p.=-0.0
+PAIRED CHARG- N  21 GLU OE2 chrg=  0.0 sasa=  3.6 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ N  29 LYS NZ  chrg=  0.0 sasa= 16.5 a.s.p.=-2.2
+PAIRED CHARG- M  17 GLU OE1 chrg=  0.0 sasa= 11.3 a.s.p.=-2.2 distance=  4.2
+PAIRED CHARG+ N  29 LYS NZ  chrg=  0.0 sasa= 16.5 a.s.p.=-0.0
+PAIRED CHARG- M  17 GLU OE2 chrg=  0.0 sasa= 12.8 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ P  10 HIS NE2 chrg=  0.0 sasa=  0.1 a.s.p.=-2.8
+PAIRED CHARG- P  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8 distance=  4.4
+PAIRED CHARG+ P  10 HIS NE2 chrg=  0.0 sasa=  0.1 a.s.p.=-2.3
+PAIRED CHARG- O   4 GLU OE1 chrg=  0.0 sasa=  0.4 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ P  10 HIS ND1 chrg=  0.0 sasa= 17.3 a.s.p.=-1.9
+PAIRED CHARG- P  13 GLU OE2 chrg=  0.0 sasa=  2.0 a.s.p.=-1.9 distance=  4.1
+PAIRED CHARG+ P  10 HIS ND1 chrg=  0.0 sasa= 17.3 a.s.p.=-1.2
+PAIRED CHARG- P  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-1.2 distance=  3.8
+PAIRED CHARG+ P  22 ARG NE  chrg=  0.0 sasa=  2.0 a.s.p.=-0.8
+PAIRED CHARG- P  21 GLU OE2 chrg=  0.0 sasa=  2.7 a.s.p.=-0.8 distance=  3.6
+PAIRED CHARG+ P  22 ARG NH1 chrg=  0.0 sasa= 16.6 a.s.p.=-0.0
+PAIRED CHARG- P  21 GLU OE2 chrg=  0.0 sasa=  2.7 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ P  29 LYS NZ  chrg=  0.0 sasa= 16.5 a.s.p.=-2.0
+PAIRED CHARG- O  17 GLU OE1 chrg=  0.0 sasa= 12.2 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ P  29 LYS NZ  chrg=  0.0 sasa= 16.5 a.s.p.=-0.0
+PAIRED CHARG- O  17 GLU OE2 chrg=  0.0 sasa=  9.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ R  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-3.0
+PAIRED CHARG- R  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  4.4
+PAIRED CHARG+ R  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- Q   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ R  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0
+PAIRED CHARG- N  13 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-1.5 distance=  4.1
+PAIRED CHARG+ R  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- N  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.6
+PAIRED CHARG+ R  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- R  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.5 distance=  4.0
+PAIRED CHARG+ R  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- R  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  3.8
+PAIRED CHARG+ R  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.6
+PAIRED CHARG- R  21 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-0.6 distance=  3.5
+PAIRED CHARG+ R  22 ARG NH1 chrg=  0.0 sasa= 15.7 a.s.p.=-0.0
+PAIRED CHARG- R  21 GLU OE2 chrg=  0.0 sasa=  1.9 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ R  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-2.2
+PAIRED CHARG- Q  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.2 distance=  4.2
+PAIRED CHARG+ R  29 LYS NZ  chrg=  0.0 sasa=  4.1 a.s.p.=-0.0
+PAIRED CHARG- Q  17 GLU OE2 chrg=  0.0 sasa= 11.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ T  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.8
+PAIRED CHARG- T  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  4.3
+PAIRED CHARG+ T  10 HIS NE2 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3
+PAIRED CHARG- S   4 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.3 distance=  4.2
+PAIRED CHARG+ T  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.4
+PAIRED CHARG- P  13 GLU OE2 chrg=  0.0 sasa=  2.0 a.s.p.=-1.9 distance=  4.3
+PAIRED CHARG+ T  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- P  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  2.7
+PAIRED CHARG+ T  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- T  13 GLU OE2 chrg=  0.0 sasa=  0.0 a.s.p.=-1.9 distance=  4.1
+PAIRED CHARG+ T  10 HIS ND1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0
+PAIRED CHARG- T  13 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-0.0 distance=  3.8
+PAIRED CHARG+ T  22 ARG NE  chrg=  0.0 sasa=  0.0 a.s.p.=-0.8
+PAIRED CHARG- T  21 GLU OE2 chrg=  0.0 sasa=  1.3 a.s.p.=-0.8 distance=  3.6
+PAIRED CHARG+ T  22 ARG NH1 chrg=  0.0 sasa= 14.8 a.s.p.=-0.0
+PAIRED CHARG- T  21 GLU OE2 chrg=  0.0 sasa=  1.3 a.s.p.=-0.0 distance=  2.8
+PAIRED CHARG+ T  29 LYS NZ  chrg=  0.0 sasa=  4.4 a.s.p.=-2.0
+PAIRED CHARG- S  17 GLU OE1 chrg=  0.0 sasa=  0.0 a.s.p.=-2.0 distance=  4.1
+PAIRED CHARG+ T  29 LYS NZ  chrg=  0.0 sasa=  4.4 a.s.p.=-0.0
+PAIRED CHARG- S  17 GLU OE2 chrg=  0.0 sasa=  8.3 a.s.p.=-0.0 distance=  2.7
+BINUC CHARGE+ B   5 HIS NE2 chrg=  1.0 abu= 11.2 less buried part of binuclear base unpaired
+BINUC CHARGE0 B   5 HIS ND1 chrg=  0.0 abu= 16.2 more buried part of binuclear base unpaired
+BINUC NEUTRAL B  21 GLU OE1 chrg=  0.0 because binuclear mate B  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL B  22 ARG NH1 chrg=  0.0 bcause trinuclear mate B  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL B  22 ARG NH2 chrg=  0.0 bcause trinuclear mate B  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC CHARGE+ D   5 HIS NE2 chrg=  1.0 abu= 11.1 less buried part of binuclear base unpaired
+BINUC CHARGE0 D   5 HIS ND1 chrg=  0.0 abu= 16.5 more buried part of binuclear base unpaired
+BINUC NEUTRAL D  21 GLU OE1 chrg=  0.0 because binuclear mate D  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL D  22 ARG NH1 chrg=  0.0 bcause trinuclear mate D  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL D  22 ARG NH2 chrg=  0.0 bcause trinuclear mate D  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC NEUTRAL C   4 GLU OE2 chrg=  0.0 because binuclear mate C   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC NEUTRAL A   4 GLU OE2 chrg=  0.0 because binuclear mate A   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC CHARGE+ F   5 HIS NE2 chrg=  1.0 abu= 11.2 less buried part of binuclear base unpaired
+BINUC CHARGE0 F   5 HIS ND1 chrg=  0.0 abu= 15.9 more buried part of binuclear base unpaired
+BINUC NEUTRAL F  21 GLU OE1 chrg=  0.0 because binuclear mate F  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL F  22 ARG NH1 chrg=  0.0 bcause trinuclear mate F  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL F  22 ARG NH2 chrg=  0.0 bcause trinuclear mate F  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC CHARGE+ H   5 HIS NE2 chrg=  1.0 abu= 11.0 less buried part of binuclear base unpaired
+BINUC CHARGE0 H   5 HIS ND1 chrg=  0.0 abu= 16.5 more buried part of binuclear base unpaired
+BINUC NEUTRAL H  21 GLU OE1 chrg=  0.0 because binuclear mate H  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL H  22 ARG NH1 chrg=  0.0 bcause trinuclear mate H  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL H  22 ARG NH2 chrg=  0.0 bcause trinuclear mate H  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC NEUTRAL G   4 GLU OE2 chrg=  0.0 because binuclear mate G   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC NEUTRAL E   4 GLU OE2 chrg=  0.0 because binuclear mate E   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC CHARGE+ J   5 HIS ND1 chrg=  1.0 abu=  9.8 less buried part of binuclear base unpaired
+BINUC CHARGE0 J   5 HIS NE2 chrg=  0.0 abu= 11.2 more buried part of binuclear base unpaired
+BINUC NEUTRAL J  21 GLU OE1 chrg=  0.0 because binuclear mate J  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL J  22 ARG NH1 chrg=  0.0 bcause trinuclear mate J  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL J  22 ARG NH2 chrg=  0.0 bcause trinuclear mate J  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC CHARGE+ L   5 HIS ND1 chrg=  1.0 abu= 10.7 less buried part of binuclear base unpaired
+BINUC CHARGE0 L   5 HIS NE2 chrg=  0.0 abu= 10.7 more buried part of binuclear base unpaired
+BINUC NEUTRAL L  21 GLU OE1 chrg=  0.0 because binuclear mate L  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL L  22 ARG NH1 chrg=  0.0 bcause trinuclear mate L  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL L  22 ARG NH2 chrg=  0.0 bcause trinuclear mate L  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC NEUTRAL K   4 GLU OE2 chrg=  0.0 because binuclear mate K   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC NEUTRAL I   4 GLU OE2 chrg=  0.0 because binuclear mate I   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC CHARGE+ N   5 HIS NE2 chrg=  1.0 abu=  0.0 less buried part of binuclear base unpaired
+BINUC CHARGE0 N   5 HIS ND1 chrg=  0.0 abu= 16.4 more buried part of binuclear base unpaired
+BINUC NEUTRAL N  21 GLU OE1 chrg=  0.0 because binuclear mate N  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL N  22 ARG NH1 chrg=  0.0 bcause trinuclear mate N  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL N  22 ARG NH2 chrg=  0.0 bcause trinuclear mate N  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC CHARGE+ P   5 HIS NE2 chrg=  1.0 abu=  0.2 less buried part of binuclear base unpaired
+BINUC CHARGE0 P   5 HIS ND1 chrg=  0.0 abu= 16.4 more buried part of binuclear base unpaired
+BINUC NEUTRAL P  21 GLU OE1 chrg=  0.0 because binuclear mate P  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL P  22 ARG NH1 chrg=  0.0 bcause trinuclear mate P  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL P  22 ARG NH2 chrg=  0.0 bcause trinuclear mate P  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC NEUTRAL O   4 GLU OE2 chrg=  0.0 because binuclear mate O   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC NEUTRAL M   4 GLU OE2 chrg=  0.0 because binuclear mate M   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC CHARGE+ R   5 HIS NE2 chrg=  1.0 abu= 11.1 less buried part of binuclear base unpaired
+BINUC CHARGE0 R   5 HIS ND1 chrg=  0.0 abu= 16.3 more buried part of binuclear base unpaired
+BINUC NEUTRAL R  21 GLU OE1 chrg=  0.0 because binuclear mate R  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL R  22 ARG NH1 chrg=  0.0 bcause trinuclear mate R  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL R  22 ARG NH2 chrg=  0.0 bcause trinuclear mate R  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC CHARGE+ T   5 HIS NE2 chrg=  1.0 abu= 11.1 less buried part of binuclear base unpaired
+BINUC CHARGE0 T   5 HIS ND1 chrg=  0.0 abu= 16.6 more buried part of binuclear base unpaired
+BINUC NEUTRAL T  21 GLU OE1 chrg=  0.0 because binuclear mate T  21 GLU OE2 chrg=  0.0 is in ionpair
+TRNUC NEUTRAL T  22 ARG NH1 chrg=  0.0 bcause trinuclear mate T  22 ARG NE  chrg=  0.0 is in ionpair
+TRNUC NEUTRAL T  22 ARG NH2 chrg=  0.0 bcause trinuclear mate T  22 ARG NE  chrg=  0.0 is in ionpair
+BINUC NEUTRAL S   4 GLU OE2 chrg=  0.0 because binuclear mate S   4 GLU OE1 chrg=  0.0 is in ionpair
+BINUC NEUTRAL Q   4 GLU OE2 chrg=  0.0 because binuclear mate Q   4 GLU OE1 chrg=  0.0 is in ionpair
+         515  residues total among all chains.
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  1A   2C   0D   2E   3F   3G   2H   0I   1K   4L   0M   1N   1P   1Q   1R   1S   2T   3V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+  0A   4C   0D   2E   0F   2G   0H   2I   0K   2L   0M   1N   0P   2Q   0R   2S   1T   1V   0W   2Y
+Entropic penalty T*dS for chain B =   19.36
+Entropic penalty T*dS for chain D =   19.38
+Entropic penalty T*dS for chain C =   14.53
+Entropic penalty T*dS for chain A =   14.53
+Entropic penalty T*dS for chain F =   19.36
+Entropic penalty T*dS for chain H =   19.22
+Entropic penalty T*dS for chain G =   14.53
+Entropic penalty T*dS for chain E =   14.52
+Entropic penalty T*dS for chain J =   14.86
+Entropic penalty T*dS for chain L =   13.95
+Entropic penalty T*dS for chain K =   11.84
+Entropic penalty T*dS for chain I =   11.84
+Entropic penalty T*dS for chain N =   14.72
+Entropic penalty T*dS for chain P =   15.31
+Entropic penalty T*dS for chain O =   11.29
+Entropic penalty T*dS for chain M =   11.31
+Entropic penalty T*dS for chain R =   19.29
+Entropic penalty T*dS for chain T =   19.37
+Entropic penalty T*dS for chain S =   14.53
+Entropic penalty T*dS for chain Q =   14.52
+Buried ASN B    3 ND2 has 1 hbonds, sasa=   0.5 conspiring with ASN B    3 OD1 has 1 hbonds, sasa=   0.0
+Buried ASN B    3 OD1 has 1 hbonds, sasa=   0.0 conspiring with ASN B    3 ND2 has 1 hbonds, sasa=   0.5
+Solvation free energy for chain B with nresid=   30 is  -42.5 kcal/mol or -1.415 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.36 dG=  -23.10 dG/res=   -0.77 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried ASN D    3 ND2 has 1 hbonds, sasa=   0.3 conspiring with ASN D    3 OD1 has 1 hbonds, sasa=   0.1
+Buried ASN D    3 OD1 has 1 hbonds, sasa=   0.1 conspiring with ASN D    3 ND2 has 1 hbonds, sasa=   0.3
+Solvation free energy for chain D with nresid=   30 is  -42.4 kcal/mol or -1.413 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.38 dG=  -23.01 dG/res=   -0.77 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried GLN C    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN C    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN C    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN C    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN C   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN C   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN C   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN C   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN C   18 OD1 has 3 hbonds, sasa=   0.0 conspiring with ASN C   18 ND2 has 2 hbonds, sasa=   0.0
+Buried ASN C   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN C   18 OD1 has 3 hbonds, sasa=   0.0
+Solvation free energy for chain C with nresid=   21 is  -20.0 kcal/mol or -0.951 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.53 dG=   -5.45 dG/res=   -0.26 nHBsatisf=   46 nHBunsatisf=   12 HBunsat/residue= 0.57 nHBunsatburied=    7 HBunsatburied/residue= 0.33
+Buried GLN A    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN A    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN A    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN A    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN A   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN A   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN A   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN A   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN A   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN A   18 OD1 has 2 hbonds, sasa=   0.0
+Buried ASN A   18 OD1 has 2 hbonds, sasa=   0.0 conspiring with ASN A   18 ND2 has 2 hbonds, sasa=   0.0
+Solvation free energy for chain A with nresid=   21 is  -20.4 kcal/mol or -0.971 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.53 dG=   -5.87 dG/res=   -0.28 nHBsatisf=   44 nHBunsatisf=   14 HBunsat/residue= 0.67 nHBunsatburied=    9 HBunsatburied/residue= 0.43
+Buried ASN F    3 ND2 has 1 hbonds, sasa=   0.5 conspiring with ASN F    3 OD1 has 1 hbonds, sasa=   0.0
+Buried ASN F    3 OD1 has 1 hbonds, sasa=   0.0 conspiring with ASN F    3 ND2 has 1 hbonds, sasa=   0.5
+Solvation free energy for chain F with nresid=   30 is  -42.4 kcal/mol or -1.413 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.36 dG=  -23.04 dG/res=   -0.77 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried ASN H    3 ND2 has 1 hbonds, sasa=   0.3 conspiring with ASN H    3 OD1 has 1 hbonds, sasa=   0.0
+Buried ASN H    3 OD1 has 1 hbonds, sasa=   0.0 conspiring with ASN H    3 ND2 has 1 hbonds, sasa=   0.3
+Solvation free energy for chain H with nresid=   30 is  -42.4 kcal/mol or -1.413 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.22 dG=  -23.18 dG/res=   -0.77 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried GLN G    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN G    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN G    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN G    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN G   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN G   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN G   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN G   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN G   18 OD1 has 3 hbonds, sasa=   0.0 conspiring with ASN G   18 ND2 has 2 hbonds, sasa=   0.0
+Buried ASN G   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN G   18 OD1 has 3 hbonds, sasa=   0.0
+Solvation free energy for chain G with nresid=   21 is  -20.0 kcal/mol or -0.951 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.53 dG=   -5.44 dG/res=   -0.26 nHBsatisf=   46 nHBunsatisf=   12 HBunsat/residue= 0.57 nHBunsatburied=    7 HBunsatburied/residue= 0.33
+Buried GLN E    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN E    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN E    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN E    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN E   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN E   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN E   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN E   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN E   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN E   18 OD1 has 2 hbonds, sasa=   0.0
+Buried ASN E   18 OD1 has 2 hbonds, sasa=   0.0 conspiring with ASN E   18 ND2 has 2 hbonds, sasa=   0.0
+Solvation free energy for chain E with nresid=   21 is  -20.4 kcal/mol or -0.971 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.52 dG=   -5.87 dG/res=   -0.28 nHBsatisf=   44 nHBunsatisf=   14 HBunsat/residue= 0.67 nHBunsatburied=    9 HBunsatburied/residue= 0.43
+Solvation free energy for chain J with nresid=   30 is  -31.9 kcal/mol or -1.064 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.86 dG=  -17.07 dG/res=   -0.57 nHBsatisf=   39 nHBunsatisf=   43 HBunsat/residue= 1.43 nHBunsatburied=   18 HBunsatburied/residue= 0.60
+Solvation free energy for chain L with nresid=   30 is  -29.5 kcal/mol or -0.982 kcal/aa using kluge 7.2 at pH  4.0 TdS=   13.95 dG=  -15.50 dG/res=   -0.52 nHBsatisf=   37 nHBunsatisf=   45 HBunsat/residue= 1.50 nHBunsatburied=   19 HBunsatburied/residue= 0.63
+Solvation free energy for chain K with nresid=   21 is  -12.7 kcal/mol or -0.604 kcal/aa using kluge 7.2 at pH  4.0 TdS=   11.84 dG=   -0.84 dG/res=   -0.04 nHBsatisf=   35 nHBunsatisf=   23 HBunsat/residue= 1.10 nHBunsatburied=   10 HBunsatburied/residue= 0.48
+Solvation free energy for chain I with nresid=   21 is  -12.5 kcal/mol or -0.597 kcal/aa using kluge 7.2 at pH  4.0 TdS=   11.84 dG=   -0.70 dG/res=   -0.03 nHBsatisf=   32 nHBunsatisf=   26 HBunsat/residue= 1.24 nHBunsatburied=   13 HBunsatburied/residue= 0.62
+Solvation free energy for chain N with nresid=   30 is  -28.2 kcal/mol or -0.941 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.72 dG=  -13.52 dG/res=   -0.45 nHBsatisf=   36 nHBunsatisf=   46 HBunsat/residue= 1.53 nHBunsatburied=   22 HBunsatburied/residue= 0.73
+Solvation free energy for chain P with nresid=   30 is  -30.4 kcal/mol or -1.013 kcal/aa using kluge 7.2 at pH  4.0 TdS=   15.31 dG=  -15.09 dG/res=   -0.50 nHBsatisf=   40 nHBunsatisf=   42 HBunsat/residue= 1.40 nHBunsatburied=   21 HBunsatburied/residue= 0.70
+Solvation free energy for chain O with nresid=   21 is  -11.0 kcal/mol or -0.524 kcal/aa using kluge 7.2 at pH  4.0 TdS=   11.29 dG=    0.30 dG/res=    0.01 nHBsatisf=   35 nHBunsatisf=   23 HBunsat/residue= 1.10 nHBunsatburied=   10 HBunsatburied/residue= 0.48
+Solvation free energy for chain M with nresid=   21 is  -11.3 kcal/mol or -0.539 kcal/aa using kluge 7.2 at pH  4.0 TdS=   11.31 dG=   -0.01 dG/res=   -0.00 nHBsatisf=   32 nHBunsatisf=   26 HBunsat/residue= 1.24 nHBunsatburied=   12 HBunsatburied/residue= 0.57
+Buried ASN R    3 ND2 has 1 hbonds, sasa=   0.5 conspiring with ASN R    3 OD1 has 1 hbonds, sasa=   0.0
+Buried ASN R    3 OD1 has 1 hbonds, sasa=   0.0 conspiring with ASN R    3 ND2 has 1 hbonds, sasa=   0.5
+Solvation free energy for chain R with nresid=   30 is  -42.2 kcal/mol or -1.405 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.29 dG=  -22.87 dG/res=   -0.76 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried ASN T    3 ND2 has 1 hbonds, sasa=   0.3 conspiring with ASN T    3 OD1 has 1 hbonds, sasa=   0.1
+Buried ASN T    3 OD1 has 1 hbonds, sasa=   0.1 conspiring with ASN T    3 ND2 has 1 hbonds, sasa=   0.3
+Solvation free energy for chain T with nresid=   30 is  -42.4 kcal/mol or -1.413 kcal/aa using kluge 7.2 at pH  4.0 TdS=   19.37 dG=  -23.01 dG/res=   -0.77 nHBsatisf=   59 nHBunsatisf=   23 HBunsat/residue= 0.77 nHBunsatburied=   14 HBunsatburied/residue= 0.47
+Buried GLN S    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN S    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN S    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN S    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN S   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN S   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN S   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN S   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN S   18 OD1 has 3 hbonds, sasa=   0.0 conspiring with ASN S   18 ND2 has 2 hbonds, sasa=   0.0
+Buried ASN S   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN S   18 OD1 has 3 hbonds, sasa=   0.0
+Solvation free energy for chain S with nresid=   21 is  -20.0 kcal/mol or -0.952 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.53 dG=   -5.47 dG/res=   -0.26 nHBsatisf=   46 nHBunsatisf=   12 HBunsat/residue= 0.57 nHBunsatburied=    7 HBunsatburied/residue= 0.33
+Buried GLN Q    5 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN Q    5 OE1 has 1 hbonds, sasa=   0.0
+Buried GLN Q    5 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN Q    5 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN Q   15 OE1 has 1 hbonds, sasa=   0.0 conspiring with GLN Q   15 NE2 has 2 hbonds, sasa=   0.0
+Buried GLN Q   15 NE2 has 2 hbonds, sasa=   0.0 conspiring with GLN Q   15 OE1 has 1 hbonds, sasa=   0.0
+Buried ASN Q   18 ND2 has 2 hbonds, sasa=   0.0 conspiring with ASN Q   18 OD1 has 2 hbonds, sasa=   0.0
+Buried ASN Q   18 OD1 has 2 hbonds, sasa=   0.0 conspiring with ASN Q   18 ND2 has 2 hbonds, sasa=   0.0
+Solvation free energy for chain Q with nresid=   21 is  -20.4 kcal/mol or -0.973 kcal/aa using kluge 7.2 at pH  4.0 TdS=   14.52 dG=   -5.90 dG/res=   -0.28 nHBsatisf=   44 nHBunsatisf=   14 HBunsat/residue= 0.67 nHBunsatburied=    9 HBunsatburied/residue= 0.43

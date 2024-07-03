@@ -1,0 +1,8 @@
+isolde restrain torsions #1/J template #1/I angleRange 180
+isolde restrain distances #1/J template #1/I useCoord f
+isolde restrain torsions #1/K template #1/I angleRange 180
+isolde restrain distances #1/K template #1/I useCoord f
+isolde restrain torsions #1/L template #1/I angleRange 180
+isolde restrain distances #1/L template #1/I useCoord f
+isolde restrain torsions #1/M template #1/I angleRange 180
+isolde restrain distances #1/M template #1/I useCoord f

@@ -1,0 +1,3 @@
+sym #1 H,4.75,-0.33,3,0 axis z center 163,163,163
+sym #1 H,4.75,-0.33,2,-2 axis z center 163,163,163
+combine #2 #3 close true name 5_layers
