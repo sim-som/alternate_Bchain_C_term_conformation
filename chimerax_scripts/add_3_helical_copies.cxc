@@ -1,3 +1,0 @@
-sym #1 H,4.75,-0.33,2,0 axis z center 163,163,163
-sym #1 H,4.75,-0.33,1,-1 axis z center 163,163,163
-combine #2 #3 close true name 3_layers
